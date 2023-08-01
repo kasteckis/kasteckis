@@ -5,7 +5,6 @@
 **Currently I have mostly worked with:**
 * PHP, Symfony, Laravel;
 * React, Next.js;
-* Smartclient;
 * Kotlin, Spring.
 
 Reach me on:
